@@ -1,0 +1,29 @@
+[
+    {
+        "user_name": "MUHAMMAD HUSSAIN",
+        "email": "muhammad.hassan@gmail.com",
+        "pin": 5678,
+        "age": 18,
+        "gender": "M",
+        "account_number": "d7LI5@3",
+        "balance": 34500.0
+    },
+    {
+        "user_name": "MUHAMMAD MUBASHIR",
+        "email": "muhammad.mubashir@gmail.com",
+        "pin": 2344,
+        "age": 22,
+        "gender": "M",
+        "account_number": "5s#0m6U",
+        "balance": 39549.100000000006
+    },
+    {
+        "user_name": "MUHAMMAD WAJJID",
+        "email": "muhammad.wajjid@gmail.com",
+        "pin": 2567,
+        "age": 18,
+        "gender": "M",
+        "account_number": "NC64d9$",
+        "balance": 4500.67
+    }
+]
